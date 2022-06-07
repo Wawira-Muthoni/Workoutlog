@@ -4,5 +4,10 @@
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="sign_up">Sign Up</string>
-    <string name="don_t_have_an_account_sign_up" >Don\'t have an account?<u>Sign Up</u></string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account?<u>Sign Up</u></string>
+    <string name="log_in">Log In</string>
+    <string name="firstname">FirstName</string>
+    <string name="track">Track</string>
+    <string name="profile">Profile</string>
+    <string name="plan">Plan</string>
 </resources>
